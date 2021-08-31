@@ -10,33 +10,33 @@ import clearSVG from '@plone/volto/icons/clear.svg';
 
 const messages = defineMessages({
   title: {
-    id: 'secondarymenu-title',
+    id: 'subfooter-title',
     defaultMessage: 'Title',
   },
   visible: {
-    id: 'secondarymenu-visible',
+    id: 'subfooter-visible',
     defaultMessage: 'Visible',
   },
   inEvidence: {
-    id: 'secondarymenu-inevidence',
+    id: 'subfooter-inevidence',
     defaultMessage: 'In evidence',
   },
   linkUrl: {
-    id: 'secondarymenu-linkUrl',
+    id: 'subfooter-linkUrl',
     defaultMessage: 'Link',
   },
   linkUrl_description: {
-    id: 'secondarymenu-linkUrl_description',
+    id: 'subfooter-linkUrl_description',
     defaultMessage:
       'Type an external url, or select an internal url clicking on the right button',
   },
   deleteButton: {
-    id: 'secondarymenu-deletemenuitem-button',
+    id: 'subfooter-deletemenuitem-button',
     defaultMessage: 'Delete menu item',
   },
 });
 
-const SecondaryMenuConfigurationForm = ({
+const SubFooterConfigurationForm = ({
   id,
   menuItem,
   onChange,
@@ -159,5 +159,5 @@ const SecondaryMenuConfigurationForm = ({
 };
 
 export default React.memo(
-  compose(withObjectBrowser)(SecondaryMenuConfigurationForm),
+  compose(withObjectBrowser)(SubFooterConfigurationForm),
 );

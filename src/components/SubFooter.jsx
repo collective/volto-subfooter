@@ -45,7 +45,7 @@ const SubFooter = ({ pathname }) => {
   return (
     items?.length > 0 && (
       <nav
-        className="secondary-menu"
+        className="subfooter"
         role="navigation"
         aria-label={intl.formatMessage(messages.subfooter_aria)}
       >

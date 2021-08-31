@@ -15,7 +15,7 @@
     margin: 1em 0;
 }
 
-.subfooter-configuration-widget .ui.header.secondarymenu-items-header {
+.subfooter-configuration-widget .ui.header.subfooter-items-header {
     font-size: 1.2rem;
     opacity: 0.8;
 }
@@ -94,7 +94,7 @@
     align-self: center;
 }
 
-.subfooter-configuration-widget .secondarymenu-rootpath-segment {
+.subfooter-configuration-widget .subfooter-rootpath-segment {
     padding-bottom: 3rem;
     border-bottom: 1px solid #c7d5d8;
     margin-bottom: 3rem;
