@@ -68,6 +68,11 @@
     flex: 1;
 }
 
+.subfooter-configuration-widget .ui.menu.menu-items-menu a.item {
+    display: flex;
+    align-items: center;
+}
+
 .subfooter-configuration-widget .ui.menu.menu-items-menu .item span {
     padding-left: 0.5rem;
 }
