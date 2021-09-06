@@ -1,6 +1,6 @@
 {
   "name": "volto-subfooter",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Volto addon for a customizable subfooter",
   "main": "src/index.js",
   "repository": "https://github.com/collective/volto-subfooter.git",
