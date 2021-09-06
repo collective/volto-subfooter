@@ -10,3 +10,75 @@ msgstr ""
 "Content-Type: \n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
+
+ #: widget/SubFooterConfigurationWidget
+msgid "subfooter-add-rootpath"
+msgstr ""
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-addmenuitem"
+msgstr ""
+
+#: components/SubFooter
+msgid "subfooter-arialabel"
+msgstr ""
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-delete-button"
+msgstr ""
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-delete-menupath"
+msgstr ""
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-deletemenuitem-button"
+msgstr ""
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-emptyActiveMenuItem"
+msgstr ""
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-emptyActiveMenuPath"
+msgstr ""
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-inevidence"
+msgstr ""
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-linkUrl"
+msgstr ""
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-linkUrl_description"
+msgstr ""
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-menuitems-header"
+msgstr ""
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-move-menuitem-down"
+msgstr ""
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-move-menuitem-up"
+msgstr ""
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-rootpath"
+msgstr ""
+
+#: components/SubFooter
+msgid "subfooter-selected"
+msgstr ""
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-title"
+msgstr ""
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-visible"
+msgstr ""

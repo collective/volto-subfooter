@@ -10,3 +10,75 @@ msgstr ""
 "Content-Type: \n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
+
+ #: widget/SubFooterConfigurationWidget
+msgid "subfooter-add-rootpath"
+msgstr "Aggiungi radice di navigazione"
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-addmenuitem"
+msgstr "Aggiungi un elemento del sotto footer"
+
+#: components/SubFooter
+msgid "subfooter-arialabel"
+msgstr "Link aggiuntivi"
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-delete-button"
+msgstr "Elimina"
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-delete-menupath"
+msgstr "Elimina la voce di menu"
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-deletemenuitem-button"
+msgstr "Seleziona una voce di menu"
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-emptyActiveMenuItem"
+msgstr "Seleziona una voce di menu"
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-emptyActiveMenuPath"
+msgstr "Seleziona una radice di navigazione"
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-inevidence"
+msgstr "In evidenza"
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-linkUrl"
+msgstr "Link"
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-linkUrl_description"
+msgstr "Scrivi un url esterno o seleziona un URL interno cliccando sul bottone a destra"
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-menuitems-header"
+msgstr "Voci aggiuntive per il footer"
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-move-menuitem-down"
+msgstr "Sposta dopo"
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-move-menuitem-up"
+msgstr "Sposta prima"
+
+#: widget/SubFooterConfigurationWidget
+msgid "subfooter-rootpath"
+msgstr "Radice del menu"
+
+#: components/SubFooter
+msgid "subfooter-selected"
+msgstr "Menu selezionato"
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-title"
+msgstr "Titolo"
+
+#: widget/SubFooterConfigurationForm
+msgid "subfooter-visible"
+msgstr "Visibile"
