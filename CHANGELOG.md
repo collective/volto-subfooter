@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/collective/volto-subfooter/compare/v1.0.0...v1.0.1) (2021-09-07)
+
+
+### Maintenance
+
+* **i18n:** fix ita locales ([1459c95](https://github.com/collective/volto-subfooter/commit/1459c95a09beee11c6760ac0b4b9d6f9a5f929ad))
+
 ## 1.0.0 (2021-09-06)
 
 
