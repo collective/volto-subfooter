@@ -27,13 +27,9 @@ msgstr "Link aggiuntivi"
 msgid "subfooter-delete-button"
 msgstr "Elimina"
 
-#: widget/SubFooterConfigurationWidget
-msgid "subfooter-delete-menupath"
-msgstr "Elimina la voce di menu"
-
 #: widget/SubFooterConfigurationForm
 msgid "subfooter-deletemenuitem-button"
-msgstr "Seleziona una voce di menu"
+msgstr "Elimina questa voce"
 
 #: widget/SubFooterConfigurationWidget
 msgid "subfooter-emptyActiveMenuItem"

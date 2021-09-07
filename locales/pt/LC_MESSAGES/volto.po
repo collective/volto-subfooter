@@ -27,10 +27,6 @@ msgstr ""
 msgid "subfooter-delete-button"
 msgstr ""
 
-#: widget/SubFooterConfigurationWidget
-msgid "subfooter-delete-menupath"
-msgstr ""
-
 #: widget/SubFooterConfigurationForm
 msgid "subfooter-deletemenuitem-button"
 msgstr ""

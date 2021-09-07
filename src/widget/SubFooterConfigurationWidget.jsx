@@ -24,10 +24,6 @@ const messages = defineMessages({
     id: 'subfooter-add-rootpath',
     defaultMessage: 'Add menu path',
   },
-  deleteMenuPath: {
-    id: 'subfooter-delete-menupath',
-    defaultMessage: 'Delete menu path',
-  },
   deleteButton: {
     id: 'subfooter-delete-button',
     defaultMessage: 'Delete',
