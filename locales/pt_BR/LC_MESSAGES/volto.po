@@ -11,70 +11,87 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
- #: widget/SubFooterConfigurationWidget
+#: widget/SubFooterConfigurationWidget
+# defaultMessage: Add menu path
 msgid "subfooter-add-rootpath"
 msgstr ""
 
 #: widget/SubFooterConfigurationWidget
+# defaultMessage: Add menu item
 msgid "subfooter-addmenuitem"
 msgstr ""
 
 #: components/SubFooter
+# defaultMessage: Subfooter
 msgid "subfooter-arialabel"
 msgstr ""
 
 #: widget/SubFooterConfigurationWidget
+# defaultMessage: Delete
 msgid "subfooter-delete-button"
 msgstr ""
 
 #: widget/SubFooterConfigurationForm
+# defaultMessage: Delete menu item
 msgid "subfooter-deletemenuitem-button"
 msgstr ""
 
 #: widget/SubFooterConfigurationWidget
+# defaultMessage: Select a menu item
 msgid "subfooter-emptyActiveMenuItem"
 msgstr ""
 
 #: widget/SubFooterConfigurationWidget
+# defaultMessage: Select a menu path
 msgid "subfooter-emptyActiveMenuPath"
 msgstr ""
 
 #: widget/SubFooterConfigurationForm
+# defaultMessage: In evidence
 msgid "subfooter-inevidence"
 msgstr ""
 
 #: widget/SubFooterConfigurationForm
+# defaultMessage: Link
 msgid "subfooter-linkUrl"
 msgstr ""
 
 #: widget/SubFooterConfigurationForm
+# defaultMessage: Type an external url, or select an internal url clicking on the right button
 msgid "subfooter-linkUrl_description"
 msgstr ""
 
 #: widget/SubFooterConfigurationWidget
+# defaultMessage: Menu items
 msgid "subfooter-menuitems-header"
 msgstr ""
 
 #: widget/SubFooterConfigurationWidget
+# defaultMessage: Move menu item down
 msgid "subfooter-move-menuitem-down"
 msgstr ""
 
 #: widget/SubFooterConfigurationWidget
+# defaultMessage: Move menu item up
 msgid "subfooter-move-menuitem-up"
 msgstr ""
 
 #: widget/SubFooterConfigurationWidget
+# defaultMessage: Root path
 msgid "subfooter-rootpath"
 msgstr ""
 
 #: components/SubFooter
+# defaultMessage: Subfooter
 msgid "subfooter-selected"
 msgstr ""
 
 #: widget/SubFooterConfigurationForm
+# defaultMessage: Title
 msgid "subfooter-title"
 msgstr ""
 
 #: widget/SubFooterConfigurationForm
+# defaultMessage: Visible
 msgid "subfooter-visible"
 msgstr ""
