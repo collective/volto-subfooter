@@ -1,3 +1,10 @@
+### [1.0.3](https://github.com/collective/volto-subfooter/compare/v1.0.2...v1.0.3) (2021-10-26)
+
+
+### Maintenance
+
+* updated to volto 14 ([8b89618](https://github.com/collective/volto-subfooter/commit/8b89618da2d65a3aeab384b6bec14a83c8efb1c5))
+
 ### [1.0.2](https://github.com/collective/volto-subfooter/compare/v1.0.1...v1.0.2) (2021-10-05)
 
 ### [1.0.1](https://github.com/collective/volto-subfooter/compare/v1.0.0...v1.0.1) (2021-09-07)
