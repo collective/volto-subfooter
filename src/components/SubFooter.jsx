@@ -19,7 +19,7 @@ const messages = defineMessages({
   },
 });
 
-const SubFooter = ({ pathname }) => {
+const SubFooter = ({ pathname, children }) => {
   const intl = useIntl();
   const dispatch = useDispatch();
 
@@ -70,6 +70,7 @@ const SubFooter = ({ pathname }) => {
               </UniversalLink>
             );
           })}
+          {children && children}
         </Menu>
       </nav>
     )
