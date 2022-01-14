@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/collective/volto-subfooter/compare/v1.0.3...v1.1.0) (2022-01-14)
+
+
+### Features
+
+* Display children in Subfooter component ([0c4a800](https://github.com/collective/volto-subfooter/commit/0c4a8005c6f9fd8de336578e6530f1a3eb828101))
+
 ### [1.0.3](https://github.com/collective/volto-subfooter/compare/v1.0.2...v1.0.3) (2021-10-26)
 
 
