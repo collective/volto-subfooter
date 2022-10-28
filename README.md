@@ -11,6 +11,8 @@ yarn add volto-subfooter
 
 Created with [voltocli](https://github.com/nzambello/voltocli).
 
+If you are using Volto < 16, then use v1.1.0.
+
 ## Usage
 
 `Document your addon here`
