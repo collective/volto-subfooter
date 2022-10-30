@@ -1,3 +1,15 @@
+## [2.0.0](https://github.com/collective/volto-subfooter/compare/v1.1.0...v2.0.0) (2022-10-30)
+
+
+### Bug Fixes
+
+* generated lockfile ([02720dd](https://github.com/collective/volto-subfooter/commit/02720ddd973605ec92014041a964799b6199e23f))
+
+
+### Changes
+
+* upgraded dependencies and babel config for volto 16 ([#1](https://github.com/collective/volto-subfooter/issues/1)) ([00aa746](https://github.com/collective/volto-subfooter/commit/00aa746a518bd2eb572aff3f11e1eb9e56a590ee))
+
 ## [1.1.0](https://github.com/collective/volto-subfooter/compare/v1.0.3...v1.1.0) (2022-01-14)
 
 
