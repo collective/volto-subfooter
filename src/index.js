@@ -1,17 +1,24 @@
 import { subFooterReducer } from './reducers';
 import SubFooterConfigurationWidget from './widget/SubFooterConfigurationWidget';
+import SubFooterConfigurationForm from './widget/SubFooterConfigurationForm';
 import { getSubFooter } from './actions';
 import { getItemsByPath } from './utils';
 import SubFooter from './components/SubFooter';
 
 export {
   SubFooterConfigurationWidget,
+  SubFooterConfigurationForm,
   getSubFooter,
   SubFooter,
   getItemsByPath,
 };
 
 export default (config) => {
+  config.registerComponent({
+    name: 'SubFooterConfigurationForm',
+    component: SubFooterConfigurationForm,
+  });
+
   config.widgets.id = {
     ...config.widgets.id,
     subfooter_configuration: SubFooterConfigurationWidget,

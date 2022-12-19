@@ -9,10 +9,9 @@ import {
   Segment,
   Header,
 } from 'semantic-ui-react';
-import { TextWidget } from '@plone/volto/components';
+import { TextWidget, Component } from '@plone/volto/components';
 import { flattenToAppURL } from '@plone/volto/helpers/Url/Url';
 
-import SubFooterConfigurationForm from './SubFooterConfigurationForm';
 import './subfooter_configuration.css';
 
 const messages = defineMessages({
@@ -310,7 +309,8 @@ const SubFooterConfigurationWidget = ({
                         {activeMenuItem > -1 &&
                         activeMenuItem <
                           menuConfiguration[activeMenu].items?.length ? (
-                          <SubFooterConfigurationForm
+                          <Component
+                            componentName="SubFooterConfigurationForm"
                             id={`${activeMenu}-${activeMenuItem}`}
                             menuItem={
                               menuConfiguration[activeMenu].items[
