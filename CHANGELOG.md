@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/collective/volto-subfooter/compare/v2.0.0...v3.0.0) (2022-12-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* use Volto component registry for SubFooterConfigurationForm
+
+### Features
+
+* use Volto component registry for SubFooterConfigurationForm ([7da7330](https://github.com/collective/volto-subfooter/commit/7da733073439499acb535f1e9085604b8ff630d1))
+
 ## [2.0.0](https://github.com/collective/volto-subfooter/compare/v1.1.0...v2.0.0) (2022-10-30)
 
 
