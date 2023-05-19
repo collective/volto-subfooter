@@ -1,97 +1,105 @@
+# Translation of volto.pot to Spanish
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Plone\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language: \n"
-"Language-Team: \n"
-"Content-Type: \n"
-"Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"POT-Creation-Date: 2021-10-26T08:23:15.063Z\n"
+"PO-Revision-Date: 2023-05-19 00:26-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language: es\n"
+"Language-Team: ES <LL@li.org>\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Preferred-Encodings: utf-8\n"
+"MIME-Version: 1.0\n"
+"Language-Code: es\n"
+"Language-Name: Español\n"
+"Domain: volto\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
 #: widget/SubFooterConfigurationWidget
 # defaultMessage: Add menu path
 msgid "subfooter-add-rootpath"
-msgstr ""
+msgstr "Añadir ruta de menú"
 
 #: widget/SubFooterConfigurationWidget
 # defaultMessage: Add menu item
 msgid "subfooter-addmenuitem"
-msgstr ""
+msgstr "Añadir elemento de menú"
 
 #: components/SubFooter
 # defaultMessage: Subfooter
 msgid "subfooter-arialabel"
-msgstr ""
+msgstr "Sub pie de página"
 
 #: widget/SubFooterConfigurationWidget
 # defaultMessage: Delete
 msgid "subfooter-delete-button"
-msgstr ""
+msgstr "Eliminar"
 
 #: widget/SubFooterConfigurationForm
 # defaultMessage: Delete menu item
 msgid "subfooter-deletemenuitem-button"
-msgstr ""
+msgstr "Eliminar elemento de menú"
 
 #: widget/SubFooterConfigurationWidget
 # defaultMessage: Select a menu item
 msgid "subfooter-emptyActiveMenuItem"
-msgstr ""
+msgstr "Seleccione un elemento del menú"
 
 #: widget/SubFooterConfigurationWidget
 # defaultMessage: Select a menu path
 msgid "subfooter-emptyActiveMenuPath"
-msgstr ""
+msgstr "Seleccione una ruta de menú"
 
 #: widget/SubFooterConfigurationForm
 # defaultMessage: In evidence
 msgid "subfooter-inevidence"
-msgstr ""
+msgstr "En evidencia"
 
 #: widget/SubFooterConfigurationForm
 # defaultMessage: Link
 msgid "subfooter-linkUrl"
-msgstr ""
+msgstr "Enlace"
 
 #: widget/SubFooterConfigurationForm
 # defaultMessage: Type an external url, or select an internal url clicking on the right button
 msgid "subfooter-linkUrl_description"
-msgstr ""
+msgstr "Escriba una URL externa, o seleccione una URL interna haciendo clic en el botón derecho"
 
 #: widget/SubFooterConfigurationWidget
 # defaultMessage: Menu items
 msgid "subfooter-menuitems-header"
-msgstr ""
+msgstr "Elementos de menú"
 
 #: widget/SubFooterConfigurationWidget
 # defaultMessage: Move menu item down
 msgid "subfooter-move-menuitem-down"
-msgstr ""
+msgstr "Mover elemento de menú hacia abajo"
 
 #: widget/SubFooterConfigurationWidget
 # defaultMessage: Move menu item up
 msgid "subfooter-move-menuitem-up"
-msgstr ""
+msgstr "Mover elemento de menú hacia arriba"
 
 #: widget/SubFooterConfigurationWidget
 # defaultMessage: Root path
 msgid "subfooter-rootpath"
-msgstr ""
+msgstr "Ruta raíz"
 
 #: components/SubFooter
 # defaultMessage: Subfooter
 msgid "subfooter-selected"
-msgstr ""
+msgstr "Sub pie de página"
 
 #: widget/SubFooterConfigurationForm
 # defaultMessage: Title
 msgid "subfooter-title"
-msgstr ""
+msgstr "Título"
 
 #: widget/SubFooterConfigurationForm
 # defaultMessage: Visible
 msgid "subfooter-visible"
-msgstr ""
+msgstr "Visibile"
