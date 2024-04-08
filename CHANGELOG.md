@@ -1,3 +1,15 @@
+## [3.1.0](https://github.com/collective/volto-subfooter/compare/v3.0.0...v3.1.0) (2024-04-08)
+
+
+### Features
+
+* Added Spanish support ([c581c90](https://github.com/collective/volto-subfooter/commit/c581c909d360f355047e36b189397ecb4a453fa4))
+
+
+### Maintenance
+
+* lazy loading /manage components ([#2](https://github.com/collective/volto-subfooter/issues/2)) ([aff8570](https://github.com/collective/volto-subfooter/commit/aff85707bc6f53bcaf3727d2412344099af3d0cf))
+
 ## [3.0.0](https://github.com/collective/volto-subfooter/compare/v2.0.0...v3.0.0) (2022-12-19)
 
 
