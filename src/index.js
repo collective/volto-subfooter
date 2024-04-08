@@ -1,6 +1,9 @@
 import { subFooterReducer } from './reducers';
-import SubFooterConfigurationWidget from './widget/SubFooterConfigurationWidget';
-import SubFooterConfigurationForm from './widget/SubFooterConfigurationForm';
+import {
+  SubFooterConfigurationWidget,
+  SubFooterConfigurationForm,
+} from './widget';
+
 import { getSubFooter } from './actions';
 import { getItemsByPath } from './utils';
 import SubFooter from './components/SubFooter';
