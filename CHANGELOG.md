@@ -1,3 +1,10 @@
+### [3.1.1](https://github.com/collective/volto-subfooter/compare/v3.1.0...v3.1.1) (2024-06-07)
+
+
+### Bug Fixes
+
+* match path ([#3](https://github.com/collective/volto-subfooter/issues/3)) ([53b9ee3](https://github.com/collective/volto-subfooter/commit/53b9ee3303352da0b0f1b50bf4da62e2bff819e5))
+
 ## [3.1.0](https://github.com/collective/volto-subfooter/compare/v3.0.0...v3.1.0) (2024-04-08)
 
 
