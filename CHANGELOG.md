@@ -1,3 +1,10 @@
+### [3.1.2](https://github.com/collective/volto-subfooter/compare/v3.1.1...v3.1.2) (2024-09-16)
+
+
+### Bug Fixes
+
+* removeeventlistener ([c2a5131](https://github.com/collective/volto-subfooter/commit/c2a513165d9fef14cb91ef949d2d59962c4c17bc))
+
 ### [3.1.1](https://github.com/collective/volto-subfooter/compare/v3.1.0...v3.1.1) (2024-06-07)
 
 
