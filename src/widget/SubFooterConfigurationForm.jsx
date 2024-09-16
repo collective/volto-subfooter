@@ -67,7 +67,7 @@ const SubFooterConfigurationForm = ({
     return () => {
       document
         .querySelector('form.ui.form')
-        .removeEventListener('click', preventClick);
+        ?.removeEventListener('click', preventClick);
       document.querySelectorAll('form.ui.form input').forEach((item) => {
         item.removeEventListener('keypress', preventEnter);
       });
