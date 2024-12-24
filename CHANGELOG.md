@@ -1,3 +1,10 @@
+### [3.1.3](https://github.com/collective/volto-subfooter/compare/v3.1.2...v3.1.3) (2024-12-24)
+
+
+### Maintenance
+
+* removed volto imports from barrel files ([f7c466c](https://github.com/collective/volto-subfooter/commit/f7c466cbda159635241546bd797ef82e1bbc2435))
+
 ### [3.1.2](https://github.com/collective/volto-subfooter/compare/v3.1.1...v3.1.2) (2024-09-16)
 
 
