@@ -1,3 +1,12 @@
+### [3.1.4](https://github.com/collective/volto-subfooter/compare/v3.1.3...v3.1.4) (2026-03-05)
+
+
+### Bug Fixes
+
+* limited change to buttons ([b3a6330](https://github.com/collective/volto-subfooter/commit/b3a6330cc20c4bf7cf761dff5ead10222fc70571))
+* managed enter keypress, click and submit in menu configuration form ([2ea32b6](https://github.com/collective/volto-subfooter/commit/2ea32b6762b2f96eed80b56eea9f216e48988352))
+* removed unused prevent click ([a81df07](https://github.com/collective/volto-subfooter/commit/a81df0703d66667e7a78d88573bc0a8f425f84ce))
+
 ### [3.1.3](https://github.com/collective/volto-subfooter/compare/v3.1.2...v3.1.3) (2024-12-24)
 
 
