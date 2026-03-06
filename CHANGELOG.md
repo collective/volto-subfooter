@@ -1,3 +1,10 @@
+### [3.1.5](https://github.com/collective/volto-subfooter/compare/v3.1.4...v3.1.5) (2026-03-06)
+
+
+### Maintenance
+
+* fix import ([b6d09a5](https://github.com/collective/volto-subfooter/commit/b6d09a5dc2854538b2515c51bb54f288709f551c))
+
 ### [3.1.4](https://github.com/collective/volto-subfooter/compare/v3.1.3...v3.1.4) (2026-03-05)
 
 
